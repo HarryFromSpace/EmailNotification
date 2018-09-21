@@ -1,0 +1,13 @@
+#spring:
+#  application:
+#    name: microservice-ecms-notification
+#server:
+#  port: 8094
+#eureka:
+#  client:
+#    registerWithEureka: true
+#    fetchRegistry: true
+#    serviceUrl:
+#      defaultZone: http://localhost:8671/eureka/
+#  instance:
+#    hostname: localhost
